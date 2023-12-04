@@ -1,0 +1,12 @@
+#Nasobeni
+print(3*5)
+#Sčitani
+print(3+5)
+#Odečitani
+print(3-5)
+#Děleni
+print(3/5)
+#Mocneni 
+print(3**5)
+#Odmocneni
+print(3**(1/5))
